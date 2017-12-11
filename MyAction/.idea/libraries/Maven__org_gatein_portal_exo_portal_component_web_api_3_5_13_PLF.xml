@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gatein.portal:exo.portal.component.web.api:3.5.13-PLF">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/gatein/portal/exo.portal.component.web.api/3.5.13-PLF/exo.portal.component.web.api-3.5.13-PLF.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/gatein/portal/exo.portal.component.web.api/3.5.13-PLF/exo.portal.component.web.api-3.5.13-PLF-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/gatein/portal/exo.portal.component.web.api/3.5.13-PLF/exo.portal.component.web.api-3.5.13-PLF-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

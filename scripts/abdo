@@ -1,0 +1,13 @@
+if  [[ $1 = "4.4.1" ]]; then
+    echo "you install 4.4.1 version"
+    if  [[ $2 = "ad" ]]; then
+
+    echo "and integrate ad with it"
+    cp -R ~/repo/4.4.1-$2"-"$3/platform-4.4.1 .
+    #cp -R /home/exo/repo/4.4.1-ad/platform-4.4.1 .
+    cd platform-4.4.1 
+    echo "done :)"
+fi
+else
+    echo "please enter one parameter at least"
+fi

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.kernel:exo.kernel.commons:2.6.x-SNAPSHOT">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.commons/2.6.x-SNAPSHOT/exo.kernel.commons-2.6.x-20160917.140407-60.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.commons/2.6.x-SNAPSHOT/exo.kernel.commons-2.6.x-20160917.140407-60-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.commons/2.6.x-SNAPSHOT/exo.kernel.commons-2.6.x-20160917.140407-60-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

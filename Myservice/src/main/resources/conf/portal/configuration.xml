@@ -1,0 +1,6 @@
+<configuration>
+    <component>
+        <key>com.exo.abdest.MyService</key>
+        <type>com.exo.abdest.MyService</type>
+    </component>
+</configuration>

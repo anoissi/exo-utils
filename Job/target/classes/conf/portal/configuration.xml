@@ -1,0 +1,48 @@
+<configuration>
+
+    <external-component-plugins>
+
+        <target-component>org.exoplatform.services.scheduler.JobSchedulerService</target-component>
+
+        <component-plugin>
+
+            <name>DumbJob</name>
+
+            <set-method>addPeriodJob</set-method>
+
+            <type>org.exoplatform.services.scheduler.PeriodJob</type>
+
+            <description>DumbJob</description>
+
+            <init-params>
+
+                <properties-param>
+
+                    <name>job.info</name>
+
+                    <description>MyJob</description>
+
+                    <property name="jobName" value="MyJob" />
+
+                    <property name="groupName" value="MyGroup" />
+
+                    <property name="job" value="com.exo.abdest.MyJob" />
+
+                    <property name="repeatCount" value="0" />
+
+                    <property name="period" value="60000" />
+
+                    <property name="startTime" value="+45" />
+
+                    <property name="endTime" value="" />
+
+                </properties-param>
+
+            </init-params>
+
+        </component-plugin>
+
+    </external-component-plugins>
+
+</configuration>
+

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.kernel:exo.kernel.component.ext.cache.impl.infinispan.v5:2.6.x-mentioning-SNAPSHOT">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.infinispan.v5/2.6.x-mentioning-SNAPSHOT/exo.kernel.component.ext.cache.impl.infinispan.v5-2.6.x-mentioning-20161005.065609-34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.infinispan.v5/2.6.x-mentioning-SNAPSHOT/exo.kernel.component.ext.cache.impl.infinispan.v5-2.6.x-mentioning-20161005.065609-34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.infinispan.v5/2.6.x-mentioning-SNAPSHOT/exo.kernel.component.ext.cache.impl.infinispan.v5-2.6.x-mentioning-20161005.065609-34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.xwiki.platform:xwiki-platform-rendering-macro-code:5.4.2">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/xwiki/platform/xwiki-platform-rendering-macro-code/5.4.2/xwiki-platform-rendering-macro-code-5.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/xwiki/platform/xwiki-platform-rendering-macro-code/5.4.2/xwiki-platform-rendering-macro-code-5.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/xwiki/platform/xwiki-platform-rendering-macro-code/5.4.2/xwiki-platform-rendering-macro-code-5.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

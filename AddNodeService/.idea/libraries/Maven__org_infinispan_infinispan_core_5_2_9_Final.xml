@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.infinispan:infinispan-core:5.2.9.Final">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/infinispan/infinispan-core/5.2.9.Final/infinispan-core-5.2.9.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/infinispan/infinispan-core/5.2.9.Final/infinispan-core-5.2.9.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/infinispan/infinispan-core/5.2.9.Final/infinispan-core-5.2.9.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

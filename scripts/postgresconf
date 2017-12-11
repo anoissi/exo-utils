@@ -1,0 +1,7 @@
+cp conf/server.xml conf/server.xml.old
+cp ~/repo/server-postgres.xml conf/server.xml
+echo "done :) set your database name ! i will install postgresql driver now :)"
+subl conf/server.xml
+./addon install exo-jdbc-driver-postgresql
+echo "--------------------------------------------------------------------------------"
+echo "done :)"

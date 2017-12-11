@@ -1,0 +1,7 @@
+cp ~/repo/platform-4.4.1.zip . 
+unzip platform-4.4.1.zip
+cd platform-4.4.1 
+./start_eXo.sh  
+echo "go go "
+
+

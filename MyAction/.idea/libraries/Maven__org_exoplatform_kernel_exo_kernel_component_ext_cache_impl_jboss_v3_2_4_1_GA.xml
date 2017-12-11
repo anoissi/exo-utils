@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.kernel:exo.kernel.component.ext.cache.impl.jboss.v3:2.4.1-GA">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.jboss.v3/2.4.1-GA/exo.kernel.component.ext.cache.impl.jboss.v3-2.4.1-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.jboss.v3/2.4.1-GA/exo.kernel.component.ext.cache.impl.jboss.v3-2.4.1-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/kernel/exo.kernel.component.ext.cache.impl.jboss.v3/2.4.1-GA/exo.kernel.component.ext.cache.impl.jboss.v3-2.4.1-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

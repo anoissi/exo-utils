@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.ws:exo.ws.frameworks.json:2.3.4-GA">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/ws/exo.ws.frameworks.json/2.3.4-GA/exo.ws.frameworks.json-2.3.4-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/exoplatform/ws/exo.ws.frameworks.json/2.3.4-GA/exo.ws.frameworks.json-2.3.4-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/ws/exo.ws.frameworks.json/2.3.4-GA/exo.ws.frameworks.json-2.3.4-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

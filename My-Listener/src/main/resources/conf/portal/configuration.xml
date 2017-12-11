@@ -1,0 +1,11 @@
+<configuration>
+    <external-component-plugins>
+        <target-component>org.exoplatform.services.organization.OrganizationService</target-component>
+        <component-plugin>
+            <name>my.new.user.event.listener</name>
+            <set-method>addListenerPlugin</set-method>
+            <type>com.exo.abdest.MyListener</type>
+            <description>description</description>
+        </component-plugin>
+    </external-component-plugins>
+</configuration>

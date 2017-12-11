@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gatein-simplest-helloworld:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gatein-simplest-helloworld-0.0.x-PLF-SNAPSHOT.war">
+      <element id="artifact" artifact-name="gatein-simplest-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>

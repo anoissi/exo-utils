@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.commons:commons-component-common:4.0.1">
+    <CLASSES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/commons/commons-component-common/4.0.1/commons-component-common-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///root/.m2/repository/org/exoplatform/commons/commons-component-common/4.0.1/commons-component-common-4.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///root/.m2/repository/org/exoplatform/commons/commons-component-common/4.0.1/commons-component-common-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

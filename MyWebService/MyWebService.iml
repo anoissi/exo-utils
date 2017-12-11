@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.ws:exo.ws.rest.core:2.3.7-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.kernel:exo.kernel.container:2.4.7-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.kernel:exo.kernel.commons:2.4.7-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: eu.medsea.mimeutil:mime-util:2.1.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:jcl-over-slf4j:1.6.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: picocontainer:picocontainer:1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-beanutils:commons-beanutils:1.8.3" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.gatein.wci:wci-wci:2.3.0.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.gatein.common:common-common:2.1.0.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.gatein.common:common-logging:2.1.0.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jibx:jibx-run:1.2.4.5" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.ws:exo.ws.frameworks.json:2.3.7-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.mail:mail:1.4.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.activation:activation:1.1.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.ws.rs:jsr311-api:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-fileupload:commons-fileupload:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.core:exo.core.component.organization.api:2.6.0-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.kernel:exo.kernel.component.cache:2.5.0-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.core:exo.core.component.security.core:2.6.0-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.exoplatform.kernel:exo.kernel.component.common:2.5.0-GA" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.quartz-scheduler:quartz:2.2.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.jgroups:jgroups:3.2.7.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.hibernate:hibernate-core:4.2.5.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.2.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.thoughtworks.xstream:xstream:1.4.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.ogce:xpp3:1.1.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta-regexp:jakarta-regexp:1.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.annotation:jsr250-api:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.metaparadigm:json-rpc:1.0" level="project" />
+  </component>
+</module>

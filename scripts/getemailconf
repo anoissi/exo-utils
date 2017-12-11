@@ -1,0 +1,9 @@
+echo "exo.email.smtp.host=smtp.gmail.com" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.port=465" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.starttls.enable=true" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.auth=true" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.username=abdessattarexotests@gmail.com" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.password=TG1234?g" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.socketFactory.port=465" >> ./gatein/conf/exo.properties
+echo "exo.email.smtp.socketFactory.class=javax.net.ssl.SSLSocketFactory" >> ./gatein/conf/exo.properties
+

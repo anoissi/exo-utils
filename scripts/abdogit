@@ -1,0 +1,10 @@
+echo "shifting.................................................................."
+cp -R ~/repo/$1 .
+echo "fetching .................................................................."
+cd $1
+git checkout develop 
+git fetch origin --tags
+git pull
+echo "building project ......................................................."
+mvn clean install -DskipTests
+echo "done:)"

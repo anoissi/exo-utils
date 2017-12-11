@@ -1,0 +1,3 @@
+cp -R /home/exo/repo/ldap-conf/portal ./gatein/conf/
+subl ./gatein/conf/portal/portal/picketlink-idm-rm-openldap-config.xml
+echo "done :)"
